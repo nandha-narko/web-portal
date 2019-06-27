@@ -22,7 +22,7 @@ h6 {
 }
 
 a {
-    color: #00BCD4;
+    color: #2a9bca;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -44,7 +44,7 @@ p {
 
 .btn,
 a.btn {
-    background: #008fa1;
+    background: #1f7497;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -66,7 +66,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
     color: #fff;
-    background: #00a5bb
+    background: #258bb5
 }
 
 #topcontrol {
@@ -107,16 +107,16 @@ a.btn:hover {
 }
 
 .header {
-    background: #00BCD4;
+    background: #2a9bca;
     color: #fff
 }
 
 .main {
-    background: #00a5bb;
+    background: #258bb5;
 }
 
 .footer {
-    background: #00BCD4;
+    background: #2a9bca;
     color: #fff
 }
 
@@ -200,7 +200,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #00a5bb;
+    background: #258bb5;
     padding-top: 60px;
     padding-bottom: 30px;
     position: relative;
@@ -240,7 +240,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: #00BCD4
+    background: #2a9bca
 }
 
 .page-nav-wrapper a {
@@ -322,7 +322,7 @@ main .wrapper {
 }
 
 .timeline {
-    border-left: 3px solid #00BCD4;
+    border-left: 3px solid #2a9bca;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -356,7 +356,7 @@ main .wrapper {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #00BCD4
+    border: 3px solid #2a9bca
 }
 
 .timeline .item:after {
@@ -375,7 +375,7 @@ main .wrapper {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #00BCD4;
+    background: #2a9bca;
     z-index: 10
 }
 
@@ -409,7 +409,7 @@ main .wrapper {
 
 .timeline .job-meta .title {
     font-size: 18px;
-    color: #00BCD4;
+    color: #2a9bca;
     max-width: 220px
 }
 
@@ -431,7 +431,7 @@ main .wrapper {
 
 .education-section .degree {
     font-size: 18px;
-    color: #00BCD4;
+    color: #2a9bca;
     margin-top: 0;
     margin-bottom: 0px
 }
@@ -550,7 +550,7 @@ main .wrapper {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #00BCD4;
+    background: #2a9bca;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -592,7 +592,7 @@ main .wrapper {
 }
 
 .testimonials-section .carousel-indicators li.active {
-    background-color: #00BCD4;
+    background-color: #2a9bca;
     width: 10px;
     height: 10px;
     margin: 0;
@@ -624,8 +624,8 @@ main .wrapper {
 }
 
 .portfolio-section .filters .type.active {
-    color: #00BCD4;
-    border-bottom: 2px solid #00BCD4
+    color: #2a9bca;
+    border-bottom: 2px solid #2a9bca
 }
 
 .portfolio-section .item {
@@ -637,7 +637,7 @@ main .wrapper {
 }
 
 .portfolio-section .item-inner {
-    background: #00BCD4;
+    background: #2a9bca;
     color: #fff;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -728,7 +728,7 @@ main .wrapper {
 }
 
 .contact-section .service-list .svg-inline--fa {
-    color: #00BCD4;
+    color: #2a9bca;
     margin-right: 5px
 }
 
@@ -752,7 +752,7 @@ main .wrapper {
 }
 
 .contact-section .social a:hover {
-    color: #00BCD4
+    color: #2a9bca
 }
 
 
@@ -967,7 +967,7 @@ main .wrapper {
 }
 
 .config-panel #color-options li.theme-1 a {
-    background: #00BCD4
+    background: #2a9bca
 }
 
 .config-panel #color-options li.theme-2 a {
@@ -1044,7 +1044,7 @@ main .wrapper {
 
 
 .footer .contact-info {
-    background: #007888;
+    background: #1f7497;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 16px
@@ -1534,7 +1534,7 @@ svg:not(:root).svg-inline--fa {
     position: absolute;
     height: 50%;
     width: 50%;
-    background: #007888;
+    background: #1f7497;
     transition: all 0.4s;
     cursor: pointer;
   }
@@ -1569,7 +1569,7 @@ svg:not(:root).svg-inline--fa {
     border-radius: 50%;
   }
   .quart:hover {
-    background: #008fa1;
+    background: #3fa5cf;
   }
 
   .quart:first-child span {
