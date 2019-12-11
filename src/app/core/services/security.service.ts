@@ -3,9 +3,9 @@ import { AuthConfig, OAuthService } from 'angular-oauth2-oidc';
 import { HttpClient } from '@angular/common/http';
 
 const AUTH_CONFIG: AuthConfig = {
-  clientId: "fb-web",
-  loginUrl: "http://accounts.nandhas.in/oauth/authorize",
-  logoutUrl: "http://accounts.nandhas.in/logout",
+  clientId: "nandhas-web",
+  loginUrl: "http://localhost:8080/oauth/authorize",
+  logoutUrl: "http://localhost:8080/logout",
   redirectUri: window.location.origin,
   scope: "openid profile",
   oidc: false,
@@ -47,7 +47,6 @@ export class SecurityService {
   }
 
   public login() {
-      debugger
       this.oauthService.initImplicitFlow();
   }
 

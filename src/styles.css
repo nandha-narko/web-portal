@@ -44,7 +44,7 @@ p {
 
 .btn,
 a.btn {
-    background: #1f7497;
+    background: #105a86;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -66,7 +66,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
     color: #fff;
-    background: #258bb5
+    background: #126597
 }
 
 #topcontrol {
@@ -107,16 +107,15 @@ a.btn:hover {
 }
 
 .header {
-    background: #2a9bca;
+    background: #1571a8;
     color: #fff
 }
 
 .main {
-    background: #258bb5;
+    background: #126597;
 }
 
 .footer {
-    background: #2a9bca;
     color: #fff
 }
 
@@ -200,7 +199,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #258bb5;
+    background: #126597;
     padding-top: 60px;
     padding-bottom: 30px;
     position: relative;
@@ -1044,7 +1043,7 @@ main .wrapper {
 
 
 .footer .contact-info {
-    background: #1f7497;
+    background: #105a86;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 16px
@@ -1534,7 +1533,7 @@ svg:not(:root).svg-inline--fa {
     position: absolute;
     height: 50%;
     width: 50%;
-    background: #1f7497;
+    background: #105a86;
     transition: all 0.4s;
     cursor: pointer;
   }
@@ -1569,7 +1568,7 @@ svg:not(:root).svg-inline--fa {
     border-radius: 50%;
   }
   .quart:hover {
-    background: #3fa5cf;
+    background: #2c7fb0;
   }
 
   .quart:first-child span {

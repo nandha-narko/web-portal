@@ -13,9 +13,9 @@ export class SecurityGuard implements CanActivate {
   canActivate(
     next: ActivatedRouteSnapshot,
     state: RouterStateSnapshot): Observable<boolean> | Promise<boolean> | boolean {
-    // if (this.securityService.isAuthorized()) {
+    if (this.securityService.isAuthorized()) {
         return true;
-    // }
+    }
     this.securityService.login();
   }
 }
